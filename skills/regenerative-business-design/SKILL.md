@@ -1,6 +1,6 @@
 ---
 name: regenerative-business-design
-description: Design holistic regenerative businesses — the economic actors of tomorrow. Integrates the Flourishing Business Canvas, Carol Sanford's regenerative paradigm, steward ownership and FairShares Commons structures, nature-on-the-board governance, and innovative finance (Aunnie Patton Power). Use whenever a user wants to design a venture with purpose in its DNA, redesign an existing business toward regeneration, choose a purpose-locked legal/ownership structure (steward ownership, purpose trust, foundation, cooperative, FairShares), give nature or future generations a governance voice, match financing to the venture (revenue-based finance, demand dividends, redeemable equity), or assess how regenerative a business is. Trigger broadly — on "business model", "ownership structure", "steward ownership", "purpose-driven company", "social enterprise", "how should I incorporate", "alternative financing", and similar, even when the user doesn't say "regenerative".
+description: Design holistic regenerative businesses — the economic actors of tomorrow. Integrates the Flourishing Business Canvas, Carol Sanford's regenerative paradigm, Chris Dembek's reorganizing business models, steward ownership and FairShares Commons structures, nature-on-the-board governance, Syntropic Enterprise practices (Christine McDougall), and innovative finance (Aunnie Patton Power). Use whenever a user wants to design a venture with purpose in its DNA, redesign an existing business toward regeneration, choose a purpose-locked legal/ownership structure (steward ownership, purpose trust, foundation, cooperative, FairShares), give nature or future generations a governance voice, match financing to the venture (revenue-based finance, demand dividends, redeemable equity), or assess how regenerative a business is. Trigger broadly — on "business model", "ownership structure", "steward ownership", "purpose-driven company", "social enterprise", "how should I incorporate", "alternative financing", and similar, even when the user doesn't say "regenerative".
 ---
 
 # Regenerative Business Design
@@ -24,8 +24,8 @@ Every engagement works some or all of these layers. Always name which layer you'
 
 | Layer | Core question | Key frameworks | Reference file |
 |---|---|---|---|
-| 1. Essence & purpose | What is this business uniquely here to regenerate, for whom, in what place? | Sanford (essence, pentad, paradigm levels) | `references/paradigm.md` |
-| 2. Value creation model | How does it create value for ecology, society, and economy at once? | Flourishing Business Canvas | `references/flourishing-canvas.md` |
+| 1. Essence & purpose | What is this business uniquely here to regenerate, for whom, in what place? | Sanford (essence, pentad, paradigm levels); McDougall (Source Idea, inner work) | `references/paradigm.md` |
+| 2. Value creation model | How does it create value for ecology, society, and economy at once — and does it deliver to, source from, or reorganize its system? | Flourishing Business Canvas; Dembek's deliver / source / reorganize model families | `references/flourishing-canvas.md` |
 | 3. Ownership & legal form | Who owns it, who can never own it, and what locks the purpose in law? | Steward ownership, FairShares Commons, trusts, foundations, co-ops | `references/ownership-legal.md` |
 | 4. Governance & voice | Who decides, and how do nature, workers, community, and future generations get heard? | Nature on the board, guardianship, stakeholder councils, sociocracy | `references/governance-nature.md` |
 | 5. Finance & capital | What money, on what terms, keeps the purpose sovereign? | Patton Power's instrument design space | `references/finance.md` |
@@ -43,7 +43,7 @@ A guided, Socratic working session. Walk the five layers in order, but responsiv
 Method:
 - Work one layer at a time. Open each with 2–4 essence-seeking questions before offering frameworks. (E.g., layer 1: "What in the world is degraded that you feel personally accountable to? What does your place/industry need that only you see?")
 - Reflect their answers back as draft design statements they can correct. Correction is where the developmental work happens.
-- At each layer transition, run a **coherence check**: does the new layer's emerging design contradict an earlier one? (Classic incoherence: regenerative purpose + standard SAFE with unlimited upside + Delaware C-corp with drag-along rights.)
+- At each layer transition, run a **coherence check**: does the new layer's emerging design contradict an earlier one? (Classic incoherences: regenerative purpose + standard SAFE with unlimited upside + Delaware C-corp with drag-along rights; a "regenerate the system" essence sitting on a pure delivering business model — see Dembek's stance check in the layer 2 reference.)
 - Capture decisions in a running design summary the user can see grow.
 - Offer to switch to Mode B when enough layers are settled to write a blueprint.
 

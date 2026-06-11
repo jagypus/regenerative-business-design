@@ -6,10 +6,12 @@ It weaves together:
 
 - **Carol Sanford** — the regenerative paradigm: essence, the stakeholder pentad, working from "regenerate life" rather than "do less harm"
 - **The Flourishing Business Canvas** (Antony Upward / Strongly Sustainable Business Model Group) — business models across environment, society, and economy
+- **Chris Dembek** — the deliver / source / **reorganize** business-model families: why models that restructure how a community and its surrounding systems operate have the largest value-creation potential, the "system traps" each family is prone to, and the outputs → outcomes → impacts discipline
 - **Graham Boyd** — FairShares Commons multi-stakeholder ownership and the ergodicity economics of why pooling beats extraction
 - **Steward ownership** (Purpose Foundation lineage) — golden shares, perpetual purpose trusts, foundation ownership, asset locks
 - **Nature on the board** — guardianship governance in the spirit of Faith In Nature, House of Hackney, and rights-of-nature law
 - **Aunnie Patton Power** (*Adventure Finance* / innovative.finance) — revenue-based finance, demand dividends, redeemable equity, and the rest of the design space between grants and VC
+- **Christine McDougall** (Syntropic World) — the Syntropic Enterprise: Source Idea, Pattern Integrity, steward leadership, the Trust Manifesto as founding agreement, and synergistic accounting for invisible/relational value
 
 The skill runs in three modes: a Socratic **design dialogue** for founders, a written **blueprint** deliverable, and a **diagnostic** for existing businesses. It is deliberately non-evangelical: every recommendation comes with its honest price tag (smaller capital pool, slower raises, no sale-of-control windfall — and how to design founder upside in anyway).
 
@@ -46,10 +48,10 @@ Just talk to Claude about your venture. Examples:
 skills/regenerative-business-design/
 ├── SKILL.md                      # orchestrator: stance, five-layer design stack, three modes
 └── references/
-    ├── paradigm.md               # Sanford: essence, pentad, paradigm levels; Boyd: ergodicity
-    ├── flourishing-canvas.md     # the FBC across environment / society / economy
+    ├── paradigm.md               # Sanford: essence, pentad, paradigm levels; McDougall: Source Idea; Boyd: ergodicity
+    ├── flourishing-canvas.md     # the FBC across environment / society / economy; Dembek: deliver/source/reorganize
     ├── ownership-legal.md        # steward ownership, FairShares, trusts, foundations, co-ops
-    ├── governance-nature.md      # nature & future generations on the board, voice architecture
+    ├── governance-nature.md      # nature & future generations on the board, voice architecture, Trust Manifesto
     └── finance.md                # instrument toolkit, matching heuristics, honest downside ledger
 ```
 

@@ -44,6 +44,18 @@ In any design conversation, walk the pentad and ask for each: what does this bus
 - **Developmental infrastructure over programs**: rather than engagement programs, build rhythms where people do strategic thinking about real work (Sanford's "business work-out" patterns).
 - **Work on the nested wholes**: the business nested in industry nested in society nested in biosphere. A regenerative business picks a "proximal whole" it is committed to evolving (e.g., its bioregion or its industry) — this choice shapes everything downstream.
 
+## Kin practice: the Syntropic Enterprise (Christine McDougall, syntropic.world)
+
+McDougall's Syntropic World work arrives at the same territory from a practitioner-facilitator lineage and adds vocabulary worth using when it fits the founder better than Sanford's:
+
+- **Source Idea** — the original organizing impulse the enterprise exists to serve. Functionally kin to essence, with a useful difference of emphasis: essence asks *what is this entity's singular character*; Source Idea asks *what idea is trying to happen through this enterprise* — and treats the founders as its stewards, not its owners. Both tests work: a Source Idea, like an essence statement, cannot be adopted by a competitor.
+- **Pattern Integrity** — keeping the enterprise's values and principles intact as it grows; the design answer to mission drift, and the layer-1 articulation of what layers 3–4 then lock structurally.
+- **Steward Leadership** — leadership as guardianship of the Source Idea and the people serving it; the leadership posture that steward *ownership* (layer 3) presumes.
+- **Enterprise as living system** — measured by "the vitality of people, the quality of relationships, and the state of the world touched", not profit alone; the same move as the FBC's tri-profit goals.
+- **Inner work and outer structure co-arise** — "we cannot build a non-extractive enterprise from an unexamined self." Use this when the diagnostic shows the bottleneck is the founder's own extraction patterns (hoarding decision rights, scarcity-driven deal terms) rather than the venture's structure. No ownership architecture survives a founder who hasn't done this work — and conversely, inner work without structural lock-in evaporates at the first hostile term sheet. Hold both.
+
+Two Syntropic artifacts live in later layers: the **Trust Manifesto** (founding full-spectrum agreement — layer 4) and **synergistic accounting** (accounting for invisible and relational value — layer 2).
+
 ## Boyd's ergodicity lens (the economics of why this isn't naive)
 
 Graham Boyd (*The Ergodic Investor and Entrepreneur*, Evolutesix) supplies the counter-argument to "this is idealistic":
