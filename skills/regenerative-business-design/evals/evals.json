@@ -1,0 +1,23 @@
+{
+  "skill_name": "regenerative-business-design",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "I'm starting a regenerative agroforestry business in Devon UK — selling tree crops and offering carbon/biodiversity services to estates. I want the structure to make sure it can never be sold off or turn extractive. Can you design the business model, ownership structure, and how we'd finance the first £500k? Give me a written blueprint.",
+      "expected_output": "A written blueprint document covering essence/purpose, flourishing business model across ecological/social/economic contexts, a purpose-locked ownership structure with named precedents, governance including nature representation, and a realistic £500k capital stack of fit-for-purpose instruments, with coherence across all layers.",
+      "files": []
+    },
+    {
+      "id": 1,
+      "prompt": "My SaaS startup helps cities manage urban forests. We have a term sheet from a VC but I'm uneasy — I want steward ownership and maybe nature represented on the board. Is that compatible with taking their money? What are my options?",
+      "expected_output": "Honest analysis that standard VC terms conflict structurally with steward ownership, concrete alternative options (golden share, redeemable equity, RBF, aligned funds), and nature-on-board mechanics.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "We're a 40-person family-owned natural cosmetics company, second generation. We're B Corp certified and donate 2% of profits. How regenerative are we really, and what would taking this seriously look like?",
+      "expected_output": "Developmental diagnostic locating the company on Sanford's paradigm levels (B Corp + donations as arrest-disorder/do-good), highest-leverage shifts per layer, named examples, suggested sequence.",
+      "files": []
+    }
+  ]
+}

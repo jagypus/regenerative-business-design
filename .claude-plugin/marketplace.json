@@ -1,0 +1,13 @@
+{
+  "name": "regenerative-business-design",
+  "owner": {
+    "name": "David Hodgson"
+  },
+  "plugins": [
+    {
+      "name": "regenerative-business-design",
+      "source": "./",
+      "description": "Regenerative business model design: purpose, flourishing business models, steward ownership, nature governance, innovative finance."
+    }
+  ]
+}
