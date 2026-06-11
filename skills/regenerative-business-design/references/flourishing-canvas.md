@@ -55,13 +55,27 @@ Work through four perspectives and sixteen question-blocks. In conversation, don
 
 ## Instrument 2: Deliver, source, or reorganize — Dembek's model families
 
-Source: Krzysztof (Chris) Dembek and colleagues. Key articles: Dembek, York & Singh, "Creating value for multiple stakeholders: Sustainable business models at the Base of the Pyramid" (*Journal of Cleaner Production*, 2018 — 55 organizations in Indonesia and the Philippines, yielding a nine-model matrix); York & Dembek, "Building BoP Business Models for Sustainable Poverty Alleviation: System Tips and System Traps" (2021); Dembek et al., "Untangling business model outcomes, impacts and value" (*Business Strategy and the Environment*, 2023). Developed studying poverty-alleviation ventures; the pattern generalizes to any venture addressing a degraded system.
+Source: Krzysztof (Chris) Dembek and colleagues. Key articles: Dembek, York & Singh, "Creating value for multiple stakeholders: Sustainable business models at the Base of the Pyramid" (*Journal of Cleaner Production*, 2018 — 55 organizations in Indonesia and the Philippines, yielding a nine-model matrix); Chmielewski, Dembek & Beckett, "'Business Unusual': Building BoP 3.0" (*Journal of Business Ethics*, 2020 — 21 Philippine organizations); York & Dembek, "System Tips and System Traps" (2021); Dembek et al., "Untangling business model outcomes, impacts and value" (*Business Strategy and the Environment*, 2023). Developed studying poverty-alleviation ventures; the pattern generalizes to any venture addressing a degraded system.
 
-Every business model takes one of three stances toward the community/system it touches:
+### The model matrix: activity × structure
 
-1. **Delivering** — the system's people are *customers*: the model brings products or services to them. Value logic: meet needs.
-2. **Sourcing** — the system's people and ecosystems are *suppliers*: the model buys from them. Value logic: create income and demand.
-3. **Reorganizing** — the system itself is the *client*: the model restructures how the community and the systems around it operate (new market linkages, restored commons, rebuilt local capacity, changed flows of money, material, and power). Reorganizing models **combine all three value-creation logics** — they deliver, source, *and* rewire — which is why Dembek's research found they have the largest value-creation potential for complex, entangled problems.
+Every business model takes one of three **activity stances** toward the community/system it touches:
+
+1. **Delivering** — the system's people are *customers*: the model brings products or services to them, targeting a **single need** (lighting, credit, water).
+2. **Sourcing** — the system's people and ecosystems are *suppliers*: the model buys materials, products, or services from them, targeting a **defined set of needs** (skills, income, market access).
+3. **Reorganizing** — the system itself is the *client*: the model "creates new or modifies existing systems and ways of life," targeting **community wellbeing — interconnected needs that change over time**. Often this means addressing seemingly-unrelated issues that feed one problem: Health in Harmony provided affordable healthcare in exchange for rainforest protection, attacking illegal logging at its driver; EVEEi electrified Philippine jeepney transit while dismantling the exploitative driver-rental system.
+
+Each stance can be structured around an **entity** (an ongoing organization), a **project** (temporary, defined outcome), or a **platform** (mediating interactions among groups) — giving nine model types. Useful structural facts: sourcing models are almost always entities (a temporary project can't hold a supply relationship); reorganizing models *start* as entities and grow into complex structures, because the work is too iterative and relational to launch as a project or platform.
+
+### Why reorganizing models create the most value — the nested logics
+
+Each family runs on a different number of **value-creation logics** (Stabell & Fjeldstad): a *chain* converts inputs into higher-value outputs; a *shop* solves problems through repeated iteration; a *network* creates value by mediating between stakeholders.
+
+- **Delivering** uses a single logic.
+- **Sourcing** uses two: a chain/shop serving customers, plus — critically — a value shop for the community, because (a hard empirical finding) **"without accompanying community work, increased income tends to create rather than solve problems"**: greed, disputes, and wellbeing losses follow raw income injections. The main community-side value-capture mechanism is what respondents called *values formation* — training, financial literacy, conflict resolution — carefully timed with the income.
+- **Reorganizing** uses all three, typically *nested*: a value **shop** (iterative problem-solving — monitor, evaluate, adjust) designs the approach; within it a value **network** links the stakeholders needed to enact the solution — including the power-holders of the old system, who must be engaged if the change is to last; within that, **chains** address specific needs. This nesting is why reorganizing models provide comprehensive solutions to complex problems — and why they can't be copied: they scale only by *repeating the solution-development process* in each new place, never by pasting the solution.
+
+Dembek's design directive from these findings: focus the model on **issues and wellbeing rather than products and single needs** — and because issue-focused models succeed by making themselves unnecessary, build in a **transition/exit strategy**: once the issue is resolved, the model transforms or moves (Health in Harmony, having nearly eradicated illegal logging in its area, transformed into a healthcare-delivery model).
 
 ### Why this matters for regenerative design
 
@@ -69,15 +83,27 @@ A level-4 regenerative ambition (layer 1) almost always implies a **reorganizing
 
 The reorganizing stance is also where the FBC's **regenerative flywheels** live: when the model's commercial activity *is* the system-restructuring activity (agroforestry, community-owned energy, fibersheds), delivering and sourcing become spokes of the reorganizing wheel.
 
+Dembek's sustainability test doubles as a one-line FBC summary: a model is sustainable to the degree its value creation **and capture** mechanisms do no harm and allow *all* stakeholders, including the natural environment, to benefit — judged against the entire value network, never the focal firm alone.
+
+### The reorganizer's working method — BoP 3.0
+
+From the Chmielewski, Dembek & Beckett study: organizations that successfully reorganize systems flip the conventional sequence — they **build the self-reliant community first; business success follows**. Their method has three disciplines, linked by three phases (sensemaking → entrainment → investment):
+
+1. **Treat issues as matters of concern, not matters of fact.** Poverty/degradation is a place-specific "state of affairs," not a generic lack to be filled with a product (the TOMS one-for-one failure: shoes delivered, shoelessness unchanged, because the reasons children went shoeless were never addressed). Work inside-out and bottom-up: start from the skills, resources, and traditions the community *already has* and build the model on those — adjust the business to the community, not vice versa.
+2. **Identify limitations — and sort them honestly.** **Fixed boundaries** must be respected and designed around: sacred and cultural practices ("certain months they are not allowed, by their customs, to harvest abaca — so we also respect that"), ecological regeneration limits, entrenched political realities. **Changeable limitations** can be removed, but only in the right order: financial literacy before income injections; teaching capacity before school buildings; the "poverty mindset" — named by nearly every organization as the deepest barrier — through patient relational work, not exhortation.
+3. **Navigate time.** Business clock-time and community event-time run at different speeds; *entrainment* is the two-way adjustment that creates a third, "sustainable" timeframe. Sequence is strategic: EVEEi spent eight years proving electric jeepneys profitable before approaching regulators to change the rules. Time itself is the largest investment a reorganizer makes — elongated timelines are a design parameter, not a failure.
+
+This is Sanford's indirect work in field-method form, and it carries straight into layers 3–5: a model whose timeline is "as long as the community's trust requires" cannot sit on capital that demands a 7-year exit.
+
 ### System traps — the honest ledger per family
 
 Each family has a characteristic failure mode (York & Dembek's "system traps"). Name the trap for whichever family the venture sits in:
 
 - **Delivering trap**: scaling consumption. Growth of the model = growth of throughput; without ecological design from inception, poverty alleviation or customer benefit gets tied to environmental degradation.
-- **Sourcing trap**: extraction in fair-trade clothing. Cost pressure pushes the model to squeeze suppliers or ecosystems; the sourcing relationship reproduces the dependency it claimed to fix.
+- **Sourcing trap**: extraction in fair-trade clothing. Cost pressure pushes the model to squeeze suppliers or ecosystems; the sourcing relationship reproduces the dependency it claimed to fix — or, per the income finding above, the income itself corrodes the community it was meant to help.
 - **Reorganizing trap**: lock-in. Rewiring a community's systems can lock it into the *wrong* structure or technology — the model's very success entrenches an arrangement that later proves unsustainable. Reorganizers carry the largest responsibility precisely because they reach deepest.
 
-Corresponding design disciplines ("system tips"): embed ecological considerations from inception, not retrofit; co-design with the community rather than for it (the affected system must author its own reorganization — this is Sanford's indirect work in business-model form); think in system interconnections, not single value chains; prefer long-term system health over rapid scaling.
+Corresponding design disciplines ("system tips"): embed ecological considerations from inception, not retrofit; co-design with the community rather than for it (the affected system must author its own reorganization); think in system interconnections, not single value chains; prefer long-term system health over rapid scaling.
 
 ### Outputs ≠ outcomes ≠ impacts
 
@@ -85,4 +111,4 @@ From Dembek's later work (2023): a model's *outputs* (what it produces), *outcom
 
 ### Honest price tag
 
-Reorganizing models are slower, more relational, and harder to finance than delivering models: revenue arrives late, value accrues to stakeholders who aren't payers, and the multi-logic complexity strains young teams. This is exactly why layers 3–5 exist — patient capital, multi-stakeholder ownership, and guardianship governance are the structures that let a reorganizing model survive its own gestation. Flag the coherence demand forward.
+Reorganizing models are slower, more relational, and harder to finance than delivering models: revenue arrives late, value accrues to stakeholders who aren't payers, the multi-logic complexity strains young teams, and the timeline is set by community trust, not by burn rate. This is exactly why layers 3–5 exist — patient capital, multi-stakeholder ownership, and guardianship governance are the structures that let a reorganizing model survive its own gestation. Flag the coherence demand forward.

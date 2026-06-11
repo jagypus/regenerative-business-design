@@ -6,7 +6,7 @@ It weaves together:
 
 - **Carol Sanford** — the regenerative paradigm: essence, the stakeholder pentad, working from "regenerate life" rather than "do less harm"
 - **The Flourishing Business Canvas** (Antony Upward / Strongly Sustainable Business Model Group) — business models across environment, society, and economy
-- **Chris Dembek** — the deliver / source / **reorganize** business-model families: why models that restructure how a community and its surrounding systems operate have the largest value-creation potential, the "system traps" each family is prone to, and the outputs → outcomes → impacts discipline
+- **Chris Dembek** — the deliver / source / **reorganize** business-model families (from his nine-model BoP business model matrix): why models that restructure how a community and its surrounding systems operate combine all three value-creation logics and create the most value for complex problems, the BoP 3.0 community-first working method, the "system traps" each family is prone to, and the outputs → outcomes → impacts discipline
 - **Graham Boyd** — FairShares Commons multi-stakeholder ownership and the ergodicity economics of why pooling beats extraction
 - **Steward ownership** (Purpose Foundation lineage) — golden shares, perpetual purpose trusts, foundation ownership, asset locks
 - **Nature on the board** — guardianship governance in the spirit of Faith In Nature, House of Hackney, and rights-of-nature law
